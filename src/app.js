@@ -1,6 +1,10 @@
 function App() {
   //logic
 
+  const sayHello = () => {
+    console.log('hello');
+  };
+
   //ui
   return (
     <div>
