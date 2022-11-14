@@ -2,5 +2,7 @@ function App() {
   //logic
 
   //ui
-  return <div></div>;
+  return <div>
+    <h1>Hello beautiful people</h1>
+  </div>;
 }
